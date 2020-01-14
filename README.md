@@ -41,4 +41,6 @@ To train an agent, you may simply open the Jupyter notebook `Navigation.ipynb` a
 
 #### Load trained network weights
 
-If you'd rather not spend ~45 minutes training the agent, you can load the weights of a trained network and immediately evaluate the performance of the agent. Just skip to the cells below the heading `Load the saved model` towards the bottom of the notebook, and begin running from there.
+If you'd rather not spend ~45 minutes training the agent, you can load the weights of a trained network and immediately evaluate the performance of the agent. Just skip the cells below the heading `Run the experiment (SKIP THIS IF YOU DON'T WISH TO TRAIN!)`
+
+below the heading `Load the saved model` towards the bottom of the notebook, and begin running from there.
